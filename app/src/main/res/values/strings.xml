@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">75F App - Nick Khoury</string>
+    <string name="button_light_sensor">Light Sensor</string>
+    <string name="button_pressure_sensor">Pressure Sensor</string>
+    <string name="label_light_sensor">Light Sensor (lux):</string>
+    <string name="button_push">Push to DB</string>
+    <string name="label_pressure_sensor">Pressure Sensor (hPa)</string>
+    <string name="button_db">View DB Entries</string>
+    <string name="label_view_server">Sensor Data on Server:</string>
+    <string name="label_view_db">View the data stored on the external server:</string>
+    <string name="label_push">Push the sensor data to an external server:</string>
+</resources>
